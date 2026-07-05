@@ -68,6 +68,6 @@ This project is licensed under the MIT License.
 
 ##  Screenshot
 
-![AI Python Chatbot](chatbot.png)
+https://github.com/sanjayjadhav6508-sketch/AI-python-chatbot/blob/06e7f73d8b14523992d895b00625420896124aa2/Screenshot.pydroid3.jpg
 
 ⭐ If you like this project, give it a Star!
