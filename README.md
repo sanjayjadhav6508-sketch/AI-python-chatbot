@@ -21,11 +21,11 @@ An AI-powered chatbot built with Python that can understand user input and gener
 
 ##  Project Structure
 
-```text
-AI-Python-Chatbot/
+AI-python-chatbot/
 │── main.py
 │── README.md
-```
+└── screenshots/
+    └── chatbot.png
 
 ##  How to Run
 
@@ -65,5 +65,9 @@ Pull requests are welcome.
 ##  License
 
 This project is licensed under the MIT License.
+
+##  Screenshot
+
+![AI Python Chatbot](chatbot.png)
 
 ⭐ If you like this project, give it a Star!
